@@ -1,6 +1,9 @@
+## Hello, welcome to my GitHub
 
+std::cout << "**These are my most used languages**";
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves&theme=tokyonight&exclude_repo=Project-LCOM-MinixSurfers)
 
+print("**And these are my projects**")
 | UC   | Project   |
 |------|-----------|
 |AED   |[Schedules](https://github.com/Ruben38Esteves/ProjetoAEDSchedule)  |
