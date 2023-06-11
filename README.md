@@ -1,3 +1,6 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves)](https://github.com/anuraghazra/github-readme-stats)
+
 | UC   | Project   |
 |------|-----------|
 |AED   |[Schedules](https://github.com/Ruben38Esteves/ProjetoAEDSchedule)  |
