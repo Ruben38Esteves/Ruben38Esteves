@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves&theme=tokyonightexclude_repo=Project-LCOM-MinixSurfers)
 
 | UC   | Project   |
 |------|-----------|
