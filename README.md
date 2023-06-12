@@ -21,11 +21,11 @@ std::cout << " **These are my most used languages** ";
 print(" **And these are my projects** ")
 | UC   | Project   |Description   |
 |------|-----------|--------------|
-|AED   |[Schedules](https://github.com/Ruben38Esteves/ProjetoAEDSchedule)  |University schedule manager|
-|AED   |[Airports](https://github.com/Ruben38Esteves/ProjetoAED-TransportesAereos)   |Airport network and flight manager|
-|LDTS  |[Javamon](https://github.com/Ruben38Esteves/Project-LDTS-Pokemon)    |A pokemon type game|
-|DA    |[Trains](https://github.com/Ruben38Esteves/Project-DA-Trains)     |Train network manager|
+|AED   |[Schedules](https://github.com/Ruben38Esteves/ProjetoAEDSchedule)  |University schedule manager (data structures)|
+|AED   |[Airports](https://github.com/Ruben38Esteves/ProjetoAED-TransportesAereos)   |Airport network and flight manager (weighted graphs)|
+|LDTS  |[Javamon](https://github.com/Ruben38Esteves/Project-LDTS-Pokemon)    |A pokemon type game (design patterns)|
+|DA    |[Trains](https://github.com/Ruben38Esteves/Project-DA-Trains)     |Train network manager (flux graphs)|
 |DA    |[Salesman](https://github.com/Ruben38Esteves/Project-DA-TSP)   |Travelling Salesman Problem|
-|LCOM  |[Minix Surf](https://github.com/Ruben38Esteves/Project-LCOM-MinixSurfers) |Multiplayer Subway Surfers type game|
-|ESOF  |[Weddit](https://github.com/Ruben38Esteves/Project-ESOF-Weddit)     |Reddit type app based on wikipedia articles|
-|LTW   |[Troubld](https://github.com/Ruben38Esteves/Project-LTW-Troubld)    |Trouble tickets website|
+|LCOM  |[Minix Surf](https://github.com/Ruben38Esteves/Project-LCOM-MinixSurfers) |Multiplayer Subway Surfers type game (device drivers)|
+|ESOF  |[Weddit](https://github.com/Ruben38Esteves/Project-ESOF-Weddit)     |Reddit type app based on wikipedia articles (software engineering|
+|LTW   |[Troubld](https://github.com/Ruben38Esteves/Project-LTW-Troubld)    |Trouble tickets website (web development)|
