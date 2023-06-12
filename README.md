@@ -27,5 +27,5 @@ print(" **And these are my projects** ")
 |DA    |[Trains](https://github.com/Ruben38Esteves/Project-DA-Trains)     |Train network manager (flux graphs)|
 |DA    |[Salesman](https://github.com/Ruben38Esteves/Project-DA-TSP)   |Travelling Salesman Problem|
 |LCOM  |[Minix Surf](https://github.com/Ruben38Esteves/Project-LCOM-MinixSurfers) |Multiplayer Subway Surfers type game (device drivers)|
-|ESOF  |[Weddit](https://github.com/Ruben38Esteves/Project-ESOF-Weddit)     |Reddit type app based on wikipedia articles (software engineering|
+|ESOF  |[Weddit](https://github.com/Ruben38Esteves/Project-ESOF-Weddit)     |Reddit type app based on wikipedia articles (software engineering)|
 |LTW   |[Troubld](https://github.com/Ruben38Esteves/Project-LTW-Troubld)    |Trouble tickets website (web development)|
