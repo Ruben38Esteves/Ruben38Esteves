@@ -1,5 +1,7 @@
 ## Hello, welcome to my GitHub
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruben38Esteves)](https://github.com/anuraghazra/github-readme-stats)
+
 std::cout << " **These are my most used languages** ";
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves&theme=tokyonight&exclude_repo=Project-LCOM-MinixSurfers)
