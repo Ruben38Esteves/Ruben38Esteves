@@ -29,3 +29,9 @@ print(" **And these are my projects** ")
 |LCOM  |[Minix Surf](https://github.com/Ruben38Esteves/Project-LCOM-MinixSurfers) |Multiplayer Subway Surfers type game (device drivers)|
 |ESOF  |[Weddit](https://github.com/Ruben38Esteves/Project-ESOF-Weddit)     |Reddit type app based on wikipedia articles (software engineering)|
 |LTW   |[Troubld](https://github.com/Ruben38Esteves/Project-LTW-Troubld)    |Trouble tickets website (web development)|
+|LBAW  |[SocialCircle](https://github.com/Ruben38Esteves/Project-LBAW-SocialCircle)    |Social Network website (web development)|
+|PFL  |[Momentum](https://github.com/Ruben38Esteves/Project-PFL-Momentum)    |Implementation of the boardgame momentum (Logical programming)|
+|PFL  |[Compiler](https://github.com/Ruben38Esteves/Project-PFL-Compiler)    |Simple Compiler (Functional Programming)|
+|FSI  |[SEEDlabs](https://github.com/Ruben38Esteves/Project-FSI-SEEDlabs)    |SEEDlabs (Cybersecurity)|
+|RCOM   |[Penguin](https://github.com/Ruben38Esteves/Project-RCOM-FileTransfer)    |File transfer through Serial Port (Computer Networks)|
+|RCOM   |[FTPDownloader](https://github.com/Ruben38Esteves/Project-RCOM-Download)    |File downloader through FTP (Computer Networks)|
