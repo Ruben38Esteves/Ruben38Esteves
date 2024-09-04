@@ -33,7 +33,7 @@ print(" **And these are my projects** ")
 |LDTS  |[Javamon](https://github.com/Ruben38Esteves/Project-LDTS-Pokemon)    |A pokemon type game (design patterns)|
 |DA    |[Trains](https://github.com/Ruben38Esteves/Project-DA-Trains)     |Train network manager (flux graphs)|
 |DA    |[Salesman](https://github.com/Ruben38Esteves/Project-DA-TSP)   |Travelling Salesman Problem|
-|LCOM  |[Minix Surf](https://github.com/Ruben38Esteves/Project-LCOM-MinixSurfers) |Multiplayer Subway Surfers type game (device drivers)|
+|LCOM  |[Cuphead](https://github.com/Ruben38Esteves/Project-LCOM-Cuphead) |Cuphead type game (device drivers)|
 |ESOF  |[Weddit](https://github.com/Ruben38Esteves/Project-ESOF-Weddit)     |Reddit type app based on wikipedia articles (software engineering)|
 |LTW   |[Troubld](https://github.com/Ruben38Esteves/Project-LTW-Troubld)    |Trouble tickets website (web development)|
 |LBAW  |[SocialCircle](https://github.com/Ruben38Esteves/Project-LBAW-SocialCircle)    |Social Network website (web development)|
@@ -44,3 +44,5 @@ print(" **And these are my projects** ")
 |RCOM   |[FTPDownloader](https://github.com/Ruben38Esteves/Project-RCOM-Download)    |File downloader through FTP (Computer Networks)|
 |CCMP|[J-- Compiler](https://github.com/Ruben38Esteves/Project-Comp-JmmCompiler)|Java-- Compiler|
 |CG|[The Bee's Garden](https://github.com/Ruben38Esteves/Project-CG-BeeGarden/tree/master/project)|Small game about pollination (Computer Graphics)|
+|IA|[Chesskoban](https://github.com/Ruben38Esteves/Project-IA-Chesskoban)|Koban type game using chess knights(Inteligent Agents)|
+|PI|[VisAO](https://github.com/LuisDuarte1/VisAO)|Data visualization using the new Adaptive Optics Telemetry Standard|
