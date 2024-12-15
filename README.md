@@ -4,7 +4,7 @@
 
 std::cout << " **These are my most used languages** ";
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves&theme=tokyonight&exclude_repo=Project-LCOM-MinixSurfers,Project-LCOM-Cuphead,Project-Comp-JmmCompiler&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves&theme=tokyonight&exclude_repo=Project-LCOM-MinixSurfers,Project-LCOM-Cuphead,Project-Comp-JmmCompiler,Project-AC-Basketball&include_all_commits=true)
 
 <details>
   <summary> But these are all I know </summary>
