@@ -1,31 +1,29 @@
-## Hello, welcome to my GitHub
+# Hello, welcome to my GitHub ✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruben38Esteves)](https://github.com/anuraghazra/github-readme-stats)
 
-std::cout << " **These are my most used languages** ";
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben38Esteves&theme=tokyonight&exclude_repo=Project-LCOM-MinixSurfers,Project-LCOM-Cuphead,Project-Comp-JmmCompiler,Project-AC-Basketball&include_all_commits=true)
 
-<details>
-  <summary> But these are all I know </summary>
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40" title="C++"> &nbsp;&nbsp;
-    <img src="https://logowiki.net/uploads/logo/j/java-14.svg" width="30" height="40" title="Java"> &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="40" title="Dart"> &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="40" title="C"> &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" width="40" height="40" title="Python"> &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" width="40" height="40" title="SQLite"> &nbsp;&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="40" height="40" title="PHP"> &nbsp;&nbsp;
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="40" height="40" title="JavaScript"> &nbsp;&nbsp;
-</details>
 
-print(" **These are my personal projects** ")
+## These are the projects I'm working on 🧍
+
 | Project   |Description   |
 |-----------|--------------|
-|[Harvest](https://github.com/Ruben38Esteves/Learn-Godot)|First Person Shooter in Godot(Game Development)|
+|[Harvest](https://github.com/Ruben38Esteves/Harvest)|First-Person-Shooter Game|
+|[Sueca Bots Server](https://github.com/ENEI-Competicoes/Bots-Sueca)|Server for a card game playing bots tournament|
+|[City Generator](https://github.com/Ruben38Esteves/City-Generator)|Wave Function Collapse implementation for city generation|
 
+## These are the projects I developed in University 🧑‍🎓
 
-print(" **And these are my projects** ")
+### From my Master's 🪴
+
+| UC   | Project   |Description   |
+|------|-----------|--------------|
+|AC|[WNBA](https://github.com/Ruben38Esteves/Project-AC-Basketball)|WNBA Playoff Predictions|
+|SDLE|[Shopping List](https://github.com/Ruben38Esteves/Project-SDLE-ShoppingList)|Distributed Shopping List application|
+
+### From my Bachelor's 🌱
+
 | UC   | Project   |Description   |
 |------|-----------|--------------|
 |AED   |[Schedules](https://github.com/Ruben38Esteves/ProjetoAEDSchedule)  |University schedule manager (data structures)|
@@ -46,3 +44,5 @@ print(" **And these are my projects** ")
 |CG|[The Bee's Garden](https://github.com/Ruben38Esteves/Project-CG-BeeGarden/tree/master/project)|Small game about pollination (Computer Graphics)|
 |IA|[Chesskoban](https://github.com/Ruben38Esteves/Project-IA-Chesskoban)|Koban type game using chess knights(Inteligent Agents)|
 |PI|[VisAO](https://github.com/LuisDuarte1/VisAO)|Data visualization using the new Adaptive Optics Telemetry Standard|
+
+
