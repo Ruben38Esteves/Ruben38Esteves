@@ -21,6 +21,8 @@
 |------|-----------|--------------|
 |AC|[WNBA](https://github.com/Ruben38Esteves/Project-AC-Basketball)|WNBA Playoff Predictions|
 |SDLE|[Shopping List](https://github.com/Ruben38Esteves/Project-SDLE-ShoppingList)|Distributed Shopping List application|
+|SGI|[ThreeJs](https://github.com/Ruben38Esteves/Project-SGI-ThreeJS)|Three Projects developed in ThreeJS|
+|PRI|[HackerNews](https://github.com/Ruben38Esteves/Project-PRI-HackerNews)|A search engine developed for the website TheHackerNews|
 
 ### From my Bachelor's 🌱
 
